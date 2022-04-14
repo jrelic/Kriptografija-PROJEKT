@@ -1,4 +1,6 @@
 # Kriptografija-PROJEKT
+!!! UNUTAR REPOZITORIJA SE NALAZI I DOKUMENT U DOCX I PDF OBLIKU, TE PPT PREZENTACIJA KORIŠTENA U YT VIDEU !!!
+
 Pokretanje projekta:
   1. pip install gmpy2
   2. python transakcija.py
